@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Практика КПиЯП 20201\\Практическая № 1\\PAPKA\\2\\ConsoleApp1Prakt1\\ConsoleApp1Prakt1\\ConsoleApp1Prakt1.csproj",
+      "projectUniqueName": "D:\\Практика КПиЯП 20201\\Практическая № 1\\PortableGit\\2\\ConsoleApp1Prakt1\\ConsoleApp1Prakt1\\ConsoleApp1Prakt1.csproj",
       "projectName": "ConsoleApp1Prakt1",
-      "projectPath": "D:\\Практика КПиЯП 20201\\Практическая № 1\\PAPKA\\2\\ConsoleApp1Prakt1\\ConsoleApp1Prakt1\\ConsoleApp1Prakt1.csproj",
+      "projectPath": "D:\\Практика КПиЯП 20201\\Практическая № 1\\PortableGit\\2\\ConsoleApp1Prakt1\\ConsoleApp1Prakt1\\ConsoleApp1Prakt1.csproj",
       "packagesPath": "C:\\Users\\luvenable\\.nuget\\packages\\",
-      "outputPath": "D:\\Практика КПиЯП 20201\\Практическая № 1\\PAPKA\\2\\ConsoleApp1Prakt1\\ConsoleApp1Prakt1\\obj\\",
+      "outputPath": "D:\\Практика КПиЯП 20201\\Практическая № 1\\PortableGit\\2\\ConsoleApp1Prakt1\\ConsoleApp1Prakt1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
